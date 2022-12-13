@@ -1,0 +1,10 @@
+fjkhkjfhkdsjhfkhfhkfj
+
+git add . 
+
+
+// this will add all the untracted file
+
+git commit -m "MSG"
+
+git push origin main
